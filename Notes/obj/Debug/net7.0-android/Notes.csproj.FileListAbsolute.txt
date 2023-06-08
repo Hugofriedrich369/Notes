@@ -974,3 +974,5 @@ D:\2DS\PMI\NotesMAUI\Notes\Notes\obj\Debug\net7.0-android\android\assets\System.
 D:\2DS\PMI\NotesMAUI\Notes\Notes\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 D:\2DS\PMI\NotesMAUI\Notes\Notes\obj\Debug\net7.0-android\android\assets\System.Xml.dll
 D:\2DS\PMI\NotesMAUI\Notes\Notes\obj\Debug\net7.0-android\resizetizer\r\drawable\home.png
+D:\2DS\PMI\NotesMAUI\Notes\Notes\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.dll
+D:\2DS\PMI\NotesMAUI\Notes\Notes\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.pdb
